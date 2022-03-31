@@ -1,0 +1,6 @@
+This prj is to play with Spring Boot
+Including playing with GitHub
+
+CRUD Restful Web Service Example with Spring Boot
+https://betacode.net/11645/crud-restful-web-service-example-with-spring-boot
+
